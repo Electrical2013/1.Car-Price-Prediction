@@ -37,7 +37,6 @@ This project predicts the **selling price of used cars** based on their key attr
    ```bash
 git clone https://github.com/Electrical2013/1.Car-Price-Prediction.git
 
-Change directory to the cloned repository
 cd 1.Car-Price-Prediction
    ```
 
