@@ -35,8 +35,11 @@ This project predicts the **selling price of used cars** based on their key attr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Electrical2013/1.Car-Price-Prediction.git
-   cd car-price-prediction
+# Clone the repository
+git clone https://github.com/Electrical2013/1.Car-Price-Prediction.git
+
+# Change directory to the cloned repository
+cd 1.Car-Price-Prediction
    ```
 
 2. Install dependencies:
